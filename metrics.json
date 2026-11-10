@@ -1,0 +1,11 @@
+{
+  "amplitude": 0.39726703476779396,
+  "phase_rad": 0.8082842580224868,
+  "dc": 1.9707396065056093,
+  "seed": 42,
+  "data": "synthetic",
+  "true_amplitude": 0.4,
+  "true_phase_rad": 0.7,
+  "amplitude_absolute_error": 0.002732965232206064,
+  "phase_absolute_error_rad": 0.10828425802248687
+}
